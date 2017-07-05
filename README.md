@@ -33,7 +33,7 @@ This course will give you the opportunity to pactice the craft of web developmen
 
 ## Goals 
 
-Build maintainable well structured web sites and web applications. ???
+Build maintainable well structured web sites and web applications.
 
 ## Lesson Outline 
 
