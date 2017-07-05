@@ -28,8 +28,13 @@ This course will give you the opportunity to pactice the craft of web developmen
 ## Competencies & Objectives 
 
 - Build well structured HTML 
+  - Modern ???
 - Use CSS and CSS preprocessors
-- Expand your knowledge of JavaScript ???
+  - Learn SASS to create modular and efficient CSS
+  - Use CSS to design custom animated user interfaces 
+- Expand your knowledge of JavaScript
+  - Solidify your knowledge of JavaScript 
+  - 
 
 ## Goals 
 
